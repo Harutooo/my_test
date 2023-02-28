@@ -1,4 +1,8 @@
 this is a test txt !
 Git tracks changes of files
 change1.
+<<<<<<< HEAD
 master:future1
+=======
+master:future1
+>>>>>>> future1
